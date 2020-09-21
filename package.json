@@ -1,5 +1,5 @@
 {
-  "name": "secret_template",
+  "name": "oauth_demo",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
